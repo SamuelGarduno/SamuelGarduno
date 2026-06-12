@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Samuel Garduño Gamboa 👋</h1>
 
 <p align="center">
-  Frontend Developer Jr. · Data Enthusiast · Egresado IPN UPIICSA
+  Frontend Developer Jr. · Data Operation Analyst · Egresado IPN UPIICSA
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ de extracción masiva de información con Power Query. Busco mi primer rol como 
 `HTML` `CSS` `JavaScript`
 
 **Backend & Datos**
-`Python` `SQL` `MySQL` `SQL Server` `Power Query` `C++` `C`
+`Python` `SQL` `MySQL` `SQL Server` `Power Query` `C++` `C` `R`
 
 **Herramientas**
-`VS Code` `AutoCAD` `Cisco Packet Tracer` `SolidWorks` `Microsoft Office`
+`VS Code` `AutoCAD` `Cisco Packet Tracer` `SolidWorks` `Microsoft Office` `RStudio`
 
 ---
 
