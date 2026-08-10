@@ -43,12 +43,4 @@ de extracción masiva de información con Power Query. Busco mi primer rol como 
 
 ---
 
-## 📂 Proyectos
 
-> Próximamente — actualmente construyendo mi portafolio web y proyectos Frontend.
-
----
-
-## 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelGarduno&show_icons=true&theme=default)
