@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Samuel Garduño Gamboa 👋</h1>
+<h1 align="center">Samuel Garduño Gamboa 👋</h1>
 
 <p align="center">
   Frontend Developer Jr. · Data Operation Analyst · Egresado IPN UPIICSA
